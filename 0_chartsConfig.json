@@ -1,0 +1,47 @@
+{
+  "title": "宁波市课后服务监控平台",
+  "data": [
+    {
+      "id": "1_overview",
+      "name": "数据总览",
+      "component": "Overview"
+    },
+    {
+      "id": "2_subjectOverview",
+      "name": "素质学科总览",
+      "component": "SubjectOverview"
+    },
+    {
+      "id": "3_subjectLessonPackage",
+      "name": "各学科课包使用情况",
+      "component": "SubjectLessonPackage"
+    },
+    {
+      "id": "4_bookedOverview",
+      "name": "校区上课情况总览",
+      "component": "BookedOverview"
+    },
+    {
+      "id": "5_bookedNumber",
+      "name": "校区上课数量变化",
+      "component": "BookedNumber"
+    },
+    {
+      "id": "6_schoolOverview",
+      "name": "入驻校区",
+      "component": "SchoolOverview",
+      "height": "3.5rem"
+    },
+    {
+      "id": "7_schoolActive",
+      "name": "入驻校区活跃度",
+      "component": "SchoolActive",
+      "height": "2.8rem"
+    },
+    {
+      "id": "8_schoolStudentNumber",
+      "name": "各校区就读学生数",
+      "component": "StudentPanel"
+    }
+  ]
+}

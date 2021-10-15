@@ -1,0 +1,142 @@
+{
+  "id": "6_schoolOverview",
+  "title": "入驻校区",
+  "data": [
+    {
+      "name": "宁波一中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 27
+        },
+        {
+          "title": "师资力量",
+          "count": 35
+        },
+        {
+          "title": "学生数量",
+          "count": 864
+        }
+      ]
+    },
+    {
+      "name": "宁波二中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 26
+        },
+        {
+          "title": "师资力量",
+          "count": 26
+        },
+        {
+          "title": "学生数量",
+          "count": 780
+        }
+      ]
+    },
+    {
+      "name": "宁波四中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 18
+        },
+        {
+          "title": "师资力量",
+          "count": 26
+        },
+        {
+          "title": "学生数量",
+          "count": 504
+        }
+      ]
+    },
+    {
+      "name": "宁波五中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 23
+        },
+        {
+          "title": "师资力量",
+          "count": 35
+        },
+        {
+          "title": "学生数量",
+          "count": 725
+        }
+      ]
+    },
+    {
+      "name": "宁波八中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 30
+        },
+        {
+          "title": "师资力量",
+          "count": 40
+        },
+        {
+          "title": "学生数量",
+          "count": 900
+        }
+      ]
+    },
+    {
+      "name": "宁波十三中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 18
+        },
+        {
+          "title": "师资力量",
+          "count": 22
+        },
+        {
+          "title": "学生数量",
+          "count": 576
+        }
+      ]
+    },
+    {
+      "name": "宁波十四中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 32
+        },
+        {
+          "title": "师资力量",
+          "count": 42
+        },
+        {
+          "title": "学生数量",
+          "count": 1056
+        }
+      ]
+    },
+    {
+      "name": "宁波十五中",
+      "data": [
+        {
+          "title": "班级总数",
+          "count": 36
+        },
+        {
+          "title": "师资力量",
+          "count": 48
+        },
+        {
+          "title": "学生数量",
+          "count": 1008
+        }
+      ]
+    }
+  ]
+}

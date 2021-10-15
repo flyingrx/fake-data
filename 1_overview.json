@@ -1,0 +1,30 @@
+{
+  "id": "1_overview",
+  "title": "数据总览",
+  "data": [
+    {
+      "source": "school",
+      "title": "入驻校区数量",
+      "count": 8,
+      "unit": "所"
+    },
+    {
+      "source": "teacher",
+      "title": "入驻老师数量",
+      "count": 274,
+      "unit": "人"
+    },
+    {
+      "source": "subject",
+      "title": "素质学科数量",
+      "count": 5,
+      "unit": "科"
+    },
+    {
+      "source": "booking",
+      "title": "已上课程数量",
+      "count": 1016,
+      "unit": "节"
+    }
+  ]
+}

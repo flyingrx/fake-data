@@ -1,0 +1,31 @@
+{
+  "id": "2_subjectOverview",
+  "title": "素质学科总览",
+  "data": [
+    {
+      "subject": "世界百科",
+      "lessonCount": 432,
+      "bookingCount": 1208
+    },
+    {
+      "subject": "中文阅读",
+      "lessonCount": 299,
+      "bookingCount": 1350
+    },
+    {
+      "subject": "科学",
+      "lessonCount": 212,
+      "bookingCount": 850
+    },
+    {
+      "subject": "美术",
+      "lessonCount": 48,
+      "bookingCount": 791
+    },
+    {
+      "subject": "体能",
+      "lessonCount": 409,
+      "bookingCount": 40
+    }
+  ]
+}
